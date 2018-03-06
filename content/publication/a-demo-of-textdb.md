@@ -18,8 +18,8 @@ authors = ["Zuozhi Wang", "Flavio Bayer", "Seungjin Lee", "Kishore Narendran", "
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *IEEE International Conference on Data Engineering 2017*"
-publication_short = "In *ICDE 2017*"
+publication = "In *IEEE International Conference on Data Engineering*"
+publication_short = "In *ICDE*"
 
 # Abstract and optional shortened version.
 abstract = ""
