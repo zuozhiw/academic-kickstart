@@ -29,4 +29,4 @@ weight = 1
 
 # Biography
 
-I am a first year Computer Science PhD Student at Unversity of California, Irvine. I'm currently working on a text analytics system [Texera](https://github.com/Texera/texera) under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/). My name in Chinese is 王作至.
+I am a first year Computer Science PhD student at Unversity of California, Irvine. I'm currently working on a text analytics project [Texera](https://github.com/Texera/texera) under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/). My name in Chinese is 王作至.
