@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-04-11T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -17,5 +17,8 @@ weight = 3
 
 I'm the TA for the following courses at UC Irvine:
 
-- Winter 2018: CS 122B - Projects in Databases and Web Applications
-- Fall 2017: CS 222P - Principles of Data Management
+- Spring 2018: CS 122B - Projects in Databases and Web Applications
+- Winter 2018: CS 122B
+  - I helped make various improvements to the class, include using Github, Maven, Frontend-Backend separation and more JavaScript content.
+- Fall 2017: CS 222P - Principles of Data Management. 
+  - I helped make a improvement to the class of using Valgrind in C++ development.
