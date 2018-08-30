@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Text Analytics as a Service for End Users"
+summary = "Interactive Big Data Analytics"
 
 # Optional image to display on homepage.
 image_preview = ""
