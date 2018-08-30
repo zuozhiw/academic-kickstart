@@ -28,5 +28,6 @@ weight = 1
 +++
 
 # Biography
+Zuozhi Wang (王作至)
 
 I am a second year Computer Science PhD student at Unversity of California, Irvine. My primary work is on an interactive big data analytics project [Texera](https://github.com/Texera/texera) under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/).
