@@ -10,8 +10,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Text Analytics",
-    "Data Management"
+    "Distributed Data Processing",
+    "Data Management",
+    "Query Optimization"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,4 +31,6 @@ weight = 1
 # Biography
 Zuozhi Wang (王作至)
 
-I am a second year Computer Science PhD student at Unversity of California, Irvine. My primary work is on an interactive big data analytics project [Texera](https://github.com/Texera/texera) under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/).
+I am a third year Computer Science PhD student at Unversity of California, Irvine, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/). My research focuses are on the areas of distributed big data processing and query optimization. I'm working [Texera](https://github.com/Texera/texera), an interactive big data processing system, and Amber, which is Texera's underlying distributed dataflow engine that supports reponsive debugging. 
+
+

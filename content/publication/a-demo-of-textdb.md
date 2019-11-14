@@ -4,7 +4,7 @@ date = 2017-04-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zuozhi Wang", "Flavio Bayer", "Seungjin Lee", "Kishore Narendran", "Xuxi Pan", "Qing Tang", "Jimmy Wang", "Chen Li"]
+authors = ["**Zuozhi Wang**", "Flavio Bayer", "Seungjin Lee", "Kishore Narendran", "Xuxi Pan", "Qing Tang", "Jimmy Wang", "Chen Li"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Zuozhi Wang", "Flavio Bayer", "Seungjin Lee", "Kishore Narendran", "
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *IEEE International Conference on Data Engineering*"
-publication_short = "In *ICDE*"
+publication = "**[Best Demo Award]**. In *IEEE International Conference on Data Engineering*"
+publication_short = "**[Best Demo Award]**. In *ICDE*"
 
 # Abstract and optional shortened version.
 abstract = ""

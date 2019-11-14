@@ -1,20 +1,20 @@
 +++
-title = "Texera"
+title = "Progressive Execution of Big Data Processing"
 date = 2018-11-08T04:23:35-08:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["texera", "text-analytics", "big-data"]
+tags = ["progressive", "query-optimizer", "big-data"]
 
 # Project summary to display on homepage.
-summary = "Texera is a GUI-based workflow system for interactive big data Analytics."
+summary = "This project explores novel big data query optimization techniques to progressively execute SQL query pipelines to incrementally compute query results. "
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Texera/texera"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
