@@ -31,6 +31,6 @@ weight = 1
 # Biography
 Zuozhi Wang (王作至)
 
-I am a third year Computer Science PhD student at Unversity of California, Irvine, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/). My research focuses are on the areas of distributed big data processing and query optimization. I'm working [Texera](https://github.com/Texera/texera), an interactive big data processing system, and Amber, which is Texera's underlying distributed dataflow engine that supports reponsive debugging. 
+I am a third year Computer Science PhD student at Unversity of California, Irvine, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu/). My research focuses are on the areas of distributed big data processing and query optimization. I'm working on [Texera](https://github.com/Texera/texera), an interactive big data processing system, and Amber, Texera's underlying distributed dataflow engine based on actor model. 
 
 
