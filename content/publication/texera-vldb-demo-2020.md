@@ -1,10 +1,10 @@
 +++
-title = "A Demonstration of TextDB: Declarative and Scalable Text Analytics on Large Data Sets"
-date = 2017-04-19
+title = "Demonstration of Interactive Runtime Debugging of Distributed Dataflows in Texera"
+date = 2020-06-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Zuozhi Wang**", "Flavio Bayer", "Seungjin Lee", "Kishore Narendran", "Xuxi Pan", "Qing Tang", "Jimmy Wang", "Chen Li"]
+authors = ["**Zuozhi Wang**", "Avinash Kumar", "Shengquan Ni", "Chen Li"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["**Zuozhi Wang**", "Flavio Bayer", "Seungjin Lee", "Kishore Narendran
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "**[Best Demo Award]**. In *IEEE International Conference on Data Engineering*"
-publication_short = "**[Best Demo Award]**. In *ICDE*"
+publication = "In *International Conference on Very Large Data Bases* Demonstration"
+publication_short = "In *VLDB* Demo"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://chenli.ics.uci.edu/files/icde2017-textdb-demo.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
